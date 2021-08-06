@@ -1,5 +1,6 @@
 ### < Hello 👋 />
    
+<!--
 
    
 ## 🤔 I'm interested in... `c` `c++` `react`    
@@ -9,7 +10,6 @@
 
 In my free time I do climb 🧗‍♀️.  
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
