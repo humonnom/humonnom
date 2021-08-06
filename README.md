@@ -2,11 +2,10 @@
    
 
    
-🤔 I like.. `c`    
-🙇‍♀️ I'm interested in... `c++` `react`    
+## 🤔 I'm interested in... `c` `c++` `react`    
    
    
-📫 How to reach me: juepark42@gmail.com   
+📫 [blog](https://humonnom.tistory.com/)
 
 In my free time I do climb 🧗‍♀️.  
 
