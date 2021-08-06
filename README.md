@@ -1,12 +1,14 @@
 ### Hello 👋 Welcome to humonnom world!
+   
 
-📫 How to reach me: juepark42@gmail.com
+   
+🤔 I like.. `c`    
+🙇‍♀️ I'm interested in... `c++` `react`    
+   
+   
+📫 How to reach me: juepark42@gmail.com   
 
-🤔 I like.. `c` 
-🙇‍♀️ I'm interested in... `c++` `react` 
-
-
-In my free time I do climb 🧗‍♀️
+In my free time I do climb 🧗‍♀️.  
 
 <!--
 - 🔭 I’m currently working on ...
