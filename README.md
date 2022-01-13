@@ -1,5 +1,5 @@
 ### < Hello 👋 />
-I like... `C` `C++` and `JS`   
+I like... `C` `C++`  and  `JS`   
 
    - In my free time ... I do climb 🧗‍♀️;
    - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**;
