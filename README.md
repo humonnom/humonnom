@@ -1,7 +1,8 @@
 ### < Hello 👋 />
-   
-   - In my free time ... I do climb 🧗‍♀️  
-   - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**
+I like... `C` `C++` and `JS`   
+
+   - In my free time ... I do climb 🧗‍♀️;
+   - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**;
    
    - 📫 [old blog](https://humonnom.tistory.com/);
    - 📫 [new blog](https://velog.io/@humonnom/series);
