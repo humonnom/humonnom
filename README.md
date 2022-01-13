@@ -3,12 +3,14 @@ I like... `C` `C++`  and  `JS`
 
    - In my free time ... I do climb 🧗‍♀️;
    - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**;
-   
-   - 📫 [old blog](https://humonnom.tistory.com/);
-   - 📫 [new blog](https://velog.io/@humonnom/series);
-
+      
 
    - 🌱 I’m currently learning ... [WEB](https://pear-capricorn-258.notion.site/WEB-fc87b47868984a658e0862f2acb6e4e9);
+
+   - 📫 [Visit my old blog](https://humonnom.tistory.com/);
+   - 📫 [Visit new blog](https://velog.io/@humonnom/series);
+   
+   
 <!--
 
    
