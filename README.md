@@ -9,8 +9,8 @@ I like... `C` `C++`  and  `JS`
        
        
    ---
-   - 📫 [Tistory blog](https://humonnom.tistory.com/)
-   - 📫 [Vellog](https://velog.io/@humonnom/series)
+   - 📫 [Tistory](https://humonnom.tistory.com/)
+   - 📫 [Velog](https://velog.io/@humonnom/series)
    
    
 <!--
