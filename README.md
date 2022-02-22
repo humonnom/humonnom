@@ -1,7 +1,7 @@
 ### < Hello 👋 />
-I like... `C` `C++`  and  `JS`   
+I'm interested in... ♡ `C` `C++` `JS` ♡
 
-   - In my free time ... I do climb 🧗‍♀️ and sometimes draw [cartoons](https://www.instagram.com/urongtoon/)
+   - In my free time ... I do climb 🧗‍♀️ or draw [cartoons](https://www.instagram.com/urongtoon/) 👩‍🎨
    - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**
       
 
