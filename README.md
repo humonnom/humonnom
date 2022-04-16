@@ -1,31 +1,12 @@
-### < Hello 👋 />
-I'm interested in... `JS` `C` `C++`
+### Jueun Park 
+`cool websites` `googling`
 
-   - In my free time ... I do climb 🧗‍♀️ or draw [cartoons](https://www.instagram.com/urongtoon/) 👩‍🎨
-   - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**
-      
++ My go-to: `React` / `emotion.js` / also I like `C`
 
-   - 🌱 I’m currently learning ... [WEB](https://pear-capricorn-258.notion.site/WEB-fc87b47868984a658e0862f2acb6e4e9)
-       
+   - Sometimes I draw  ===>  [tech cartoons](https://www.instagram.com/urongtoon/)
+   - Currently working on  =>  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)**
        
    ---
-   - 📫 [Tistory](https://humonnom.tistory.com/)
-   - 📫 [Velog](https://velog.io/@humonnom/series)
-   
-   
-<!--
-
-   
-## 🤔 I'm interested in... `c` `c++` `react`    
-   
-   
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - [tech blog (개발중)](https://juepark.com/)
+   - [notion (자료 기록용)](https://pear-capricorn-258.notion.site/WEB-fc87b47868984a658e0862f2acb6e4e9)
+     
