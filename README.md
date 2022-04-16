@@ -1,5 +1,5 @@
 ### < Hello 👋 />
-I'm interested in... ♡ `C` `C++` `JS` ♡
+I'm interested in... `JS` `C` `C++`
 
    - In my free time ... I do climb 🧗‍♀️ or draw [cartoons](https://www.instagram.com/urongtoon/) 👩‍🎨
    - 🔭 I’m currently working on ... **[ONIT project](https://github.com/Mapps-unit)**
