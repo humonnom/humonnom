@@ -1,7 +1,8 @@
 ### Jueun Park 
-`cool websites` `googling`
+`Frontend developer`
 
-+ My go-to: `React` / `emotion.js` / also I like `C`
++ `React` / `emotion.js` / `next.js`
++ `C` / `C++`
 
    - Sometimes I draw  ===>  [tech cartoons](https://www.instagram.com/urongtoon/)
    - Currently working on  =>  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)**
