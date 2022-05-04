@@ -5,7 +5,7 @@
    + `JS`
    + `React`
    + `C`
-   + `Go lang`
+   + `Golang`
 
 - Sometimes I draw  ...  [Cartoons](https://www.instagram.com/urongtoon/) 🎨
 - Currently working on  ...  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)** 👩‍🎨
