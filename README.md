@@ -9,4 +9,4 @@
    - Currently working on  =>  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)**
        
   
-- [블로그 (열심히 개발중 🏃‍♀️🏃)](https://juepark.com/)     
+- [블로그](https://juepark.com/)(열심히 개발중 🏃‍♀️🏃)     
