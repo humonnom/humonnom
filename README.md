@@ -1,6 +1,8 @@
 ### Jueun Park | 박주은
-`Frontend developer`
-+ Key Expertise
+42seoul Cadet ✨
+
++ I'm a **Frontend developer** who like...
+   + `JS`
    + `React`
    + `C` / `C++`
 
