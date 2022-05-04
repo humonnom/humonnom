@@ -1,4 +1,4 @@
-### Jueun Park | 
+### Jueun Park | 박주은
 `Frontend developer`
 + Key Expertise
    + `React` / `emotion.js`
