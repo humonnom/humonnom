@@ -6,8 +6,8 @@
    + `React`
    + `C` / `C++`
 
-- Sometimes I draw  ===>  [tech cartoons](https://www.instagram.com/urongtoon/)
-- Currently working on  =>  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)**
+- Sometimes I draw  ...  [Cartoons](https://www.instagram.com/urongtoon/) 🎨
+- Currently working on  ...  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)** 👩‍🎨
        
   
-- [블로그](https://juepark.com/)(열심히 개발중 🏃‍♀️🏃)     
+- Come and visit my [Blog](https://juepark.com/)❤️‍🔥
