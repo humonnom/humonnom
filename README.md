@@ -1,7 +1,7 @@
 ### Jueun Park 
 `Frontend developer`
 + Key Expertise
-   + `React` / `emotion.js` / `next.js`
+   + `React` / `emotion.js`
    + `C` / `C++`
 
 + About
