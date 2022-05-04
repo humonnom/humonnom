@@ -9,6 +9,4 @@
    - Currently working on  =>  **[예술가를 위한 웹빌더, 온잇](https://github.com/Mapps-unit)**
        
   
-- [tech blog (개발중)](https://juepark.com/)
-- [notion (자료 기록용)](https://pear-capricorn-258.notion.site/WEB-fc87b47868984a658e0862f2acb6e4e9)
-     
+- [블로그 (열심히 개발중 🏃‍♀️🏃)](https://juepark.com/)     
