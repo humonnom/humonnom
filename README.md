@@ -1,4 +1,4 @@
-### Jueun Park 
+### Jueun Park | 
 `Frontend developer`
 + Key Expertise
    + `React` / `emotion.js`
