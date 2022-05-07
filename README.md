@@ -2,7 +2,7 @@
 42seoul Cadet ✨
 
 + I'm a **Frontend developer** who like...
-   + `JS`
+   + `JS` [--📖](https://pear-capricorn-258.notion.site/JavaScript-e5ff345e149d4e7db577a88b891fc391)
    + `React`
    + `C`
    + `Golang`
