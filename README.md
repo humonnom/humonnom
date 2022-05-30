@@ -6,13 +6,15 @@
 * 42seoul Cadet ✨
 * `JS`, `React를 활용한 프론트엔드 개발`, `C`
 * 최근 개인프로젝트에 적용하고 있는 커밋 컨벤션[(Issues)](https://github.com/humonnom/ruth-form/issues/1#issue-1251518315)
-* 프로젝트 및 스터디의 자세한 사항은 `Readme.md`에 정리해나가고 있습니다.
+* 프로젝트 및 스터디의 자세한 사항은 각 프로젝트의 `Readme`에 정리해나가고 있습니다.
 
 
 ---
 ## Project
-* 예술가를 위한 웹빌더, 온잇[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)
-* Yourwish 산학협력 프로젝트[(repo)](https://github.com/42seoul-gifty/frontend-juepark)
+|프로젝트 이름|링크|설명|
+|---|---|---|
+|예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|예술가가 포트폴리오 사이트를 쉽게 빌드할 수 있도록 포커싱하여 만든 웹빌더|
+|Yourwish 산학협력 프로젝트|[(repo)](https://github.com/42seoul-gifty/frontend-juepark)|선물하기 서비스 Yourwish를 새로운 기술 스택으로 만들어 보는 산학 협력 프로젝트|
 <!--
 * mginx Readme 정리 후에 넣기
 -->
