@@ -3,12 +3,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=humonnom" />
 </div>
 <br>
-
 <div align=center>  
      <img src="https://img.shields.io/badge/-JS-%23535D6C?logo=javascript" />
      <img src="https://img.shields.io/badge/-REACT-%23181717?logo=react" />
     <img src="https://img.shields.io/badge/-C-%23FF9900?logo=c" />
-    <img src="https://img.shields.io/badge/-C%2B%2B-%2361DAFB?logo=cpp" />
     <img src="https://img.shields.io/badge/-Github-%2300599C?logo=github" />
     <img src="https://img.shields.io/badge/-Shell-%23E8E8E8?logo=gnubash" />
  </div>
