@@ -23,7 +23,7 @@
     
 
 <details>
-<summary>동료들이 인정한 Soft Skills(자세히보기)</summary>
+<summary>동료들이 인정한 꼼꼼함(자세히보기)</summary>
 <div markdown="1">
     <br>
     <div align=center>  
