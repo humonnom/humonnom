@@ -17,7 +17,8 @@
 * 42SEOUL Cadet 👩‍💻 
 * 최근 개인프로젝트에 적용하고 있는 커밋 컨벤션[(Issues)](https://github.com/humonnom/ruth-form/issues/1#issue-1251518315)
 * 프로젝트 및 스터디의 자세한 사항은 각 레포의 `README.md`에 정리해나가고 있습니다.
-* **branch**를 사용하여 개발을 진행, **PR**을 통해 코드리뷰를 받습니다.
+* Git flow 방법론을 이해하고 실천하려고 노력합니다.
+* 코드리뷰를 중요하게 생각합니다.
 * 태스크를 하루에 수행할 수 있는 단위(MD)로 쪼개서 계획, 수행하려고 노력합니다.
     
     
@@ -26,8 +27,8 @@
 <summary>동료들이 인정한 꼼꼼함(자세히보기)</summary>
 <div markdown="1">
     <br>
-    <div align=center>  
-    <img src="https://user-images.githubusercontent.com/54441505/171618855-1333b9de-9492-4237-bb08-4cb4dfc322b8.png" width="600" >
+    <div align=center>
+    <img src="https://user-images.githubusercontent.com/54441505/173475186-a6318e4f-a503-4170-a626-b022d3e3216a.png" width="600" >
         </div>  
     <br>
 </div>
