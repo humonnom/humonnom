@@ -23,11 +23,11 @@
     
 
 <details>
-<summary>동료들이 인정한 꼼꼼함(자세히보기)</summary>
+<summary>동료들도 인정한 ⁉️(자세히보기)</summary>
 <div markdown="1">
     <br>
     <div align=center>
-    <img src="https://user-images.githubusercontent.com/54441505/173475186-a6318e4f-a503-4170-a626-b022d3e3216a.png" width="600" >
+    <img src="https://user-images.githubusercontent.com/54441505/174447308-01423e52-8c14-4b01-ab99-dc9737cadc21.png" width="600" alt="soft skills" >
         </div>  
     <br>
 </div>
@@ -46,7 +46,7 @@
 |---|---|---|---|
 |📖 JS Deep Dive 스터디|[(repo)](https://github.com/hyunahOh/javascript-deep-dive)|Javascript Deep Dive를 읽고 책에 기술된 내용을 넘어 자바스크립트 원리에 대해 깊게 파악하기|진행중|
 |🧰 React Under The Hood|[(repo)](https://github.com/humonnom/ruth-form)|React의 작동방식을 이해하기위한 프로젝트 기반의 스터디(`TS`)|진행중|
-|📖 Learning React 스터디|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트의 주요 개념이 실제로 어떻게 사용되는지를 기반으로 이해하기|진행중|
+|🐗 Learning React 스터디|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트의 주요 개념이 실제로 어떻게 코드에 적용되는지 이해하기|진행중|
 
 <!--
 
