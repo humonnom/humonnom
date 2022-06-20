@@ -38,7 +38,6 @@
 |프로젝트 이름|링크|설명|
 |---|---|---|
 |예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|예술가가 포트폴리오 사이트를 쉽게 빌드할 수 있도록 포커싱하여 만든 웹빌더|
-|Yourwish 산학협력 프로젝트|[(repo)](https://github.com/42seoul-gifty/frontend-juepark)|선물하기 서비스 Yourwish를 새로운 기술 스택으로 만들어 보는 산학 협력 프로젝트, 기업과 함께 진행했습니다.|
 
 ---
 ## Study
