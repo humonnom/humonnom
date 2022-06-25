@@ -12,7 +12,6 @@
  </div>
  
 
-
 ## Intro
 * 42SEOUL Cadet 👩‍💻 
 * 개인프로젝트에 적용하고 있는 커밋 컨벤션[(Issues)](https://github.com/humonnom/ruth-form/issues/1#issue-1251518315)
@@ -40,6 +39,12 @@
 |예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|예술가가 포트폴리오 사이트를 쉽게 빌드할 수 있도록 포커싱하여 만든 웹빌더|
 
 ---
+## CS Project
+|프로젝트 이름|링크|설명|
+|---|---|---|
+|Mginx|[(repo)](https://github.com/42Mginx/mginx)|CPP로 웹 서버를 만드는 프로젝트|
+
+---
 ## Study
 |스터디 이름|링크|목표 및 설명|상태|
 |---|---|---|---|
@@ -47,9 +52,6 @@
 |🧰 React Under The Hood|[(repo)](https://github.com/humonnom/ruth-form)|React의 작동방식을 이해하기위한 프로젝트 기반의 스터디(`TS`)|진행중|
 |🐗 Learning React 스터디|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트의 주요 개념이 실제로 어떻게 코드에 적용되는지 이해하기|진행중|
 
-<!--
-
--->
 <!--
 * mginx, minishell, webserve Readme 정리 후에 넣기
 -->
