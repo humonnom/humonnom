@@ -41,7 +41,8 @@
 ## CS Project
 |프로젝트 이름|링크|설명|
 |---|---|---|
-|Mginx|[(repo)](https://github.com/42Mginx/mginx)|CPP로 웹 서버를 만드는 프로젝트|
+|Mginx|[(repo)](https://github.com/42Mginx/mginx)|CPP로 만드는 웹 서버 프로그램|
+|SHELL we dance|[(repo)](https://github.com/humonnom/42-shellWeDance)|C로 만드는 쉘 프로그램|
 
 ---
 ## Study
