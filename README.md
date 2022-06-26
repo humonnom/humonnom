@@ -13,7 +13,7 @@
  
 
 ## Intro
-* 42SEOUL Cadet `#코드리뷰` `#Divide-and-conquer`
+* 42SEOUL Cadet `#코드리뷰` `#Divide-and-conquer` `#틈틈이-튼튼히`
 * 개인프로젝트에 적용하고 있는 커밋 컨벤션[(Issues)](https://github.com/humonnom/ruth-form/issues/1#issue-1251518315)
 * 프로젝트 및 스터디의 자세한 사항은 각 레포의 `README.md`에 정리해나가는 중
 
