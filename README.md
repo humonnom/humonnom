@@ -35,7 +35,7 @@
 ## WEB Project
 |프로젝트 이름|링크|설명|
 |---|---|---|
-|예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|예술가가 포트폴리오 사이트를 쉽게 빌드할 수 있도록 포커싱하여 만든 웹빌더|
+|예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|개발 지식 없이 간단히 웹 사이트를 만들 수 있는 |
 
 ---
 ## CS Project
