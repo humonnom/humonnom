@@ -45,9 +45,9 @@
 ## Study
 |스터디 이름|링크|목표 및 설명|상태|
 |---|---|---|---|
-|📖 JS Deep Dive 스터디|[(repo)](https://github.com/hyunahOh/javascript-deep-dive)|Javascript Deep Dive를 읽고 책에 기술된 내용을 넘어 자바스크립트 원리에 대해 깊게 파악하기|진행중|
+|📖 JS Deep Dive 스터디|[(repo)](https://github.com/hyunahOh/javascript-deep-dive)|Javascript Deep Dive를 읽고 책에 기술된 내용을 넘어 자바스크립트 원리에 대해 깊게 파악하기|종료|
 |🧰 React Under The Hood|[(repo)](https://github.com/humonnom/ruth-form)|React의 작동방식을 이해하기위한 프로젝트 기반의 스터디(`TS`)|진행중|
-|🐗 Learning React 스터디|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트의 주요 개념이 실제로 어떻게 코드에 적용되는지 이해하기|진행중|
+|🐗 Learning React 스터디|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트의 주요 개념이 실제로 어떻게 코드에 적용되는지 이해하기|종료|
 
 <!--
 * mginx, minishell, webserve Readme 정리 후에 넣기
