@@ -13,10 +13,11 @@
  
 
 ## Intro
-* 42SEOUL Cadet `#코드리뷰` `#Divide-and-conquer` `#틈틈이-튼튼히`
+* `#코드리뷰` `#Divide-and-conquer` `#틈틈이-튼튼히`
 * 개인프로젝트에 적용하고 있는 커밋 컨벤션[(Issues)](https://github.com/humonnom/ruth-form/issues/1#issue-1251518315)
 * 프로젝트 및 스터디의 자세한 사항은 각 레포의 `README.md`에 정리해나가는 중
 
+<!--
 <details>
 <summary>동료들도 인정한 ⁉️(자세히보기)</summary>
 <div markdown="1">
@@ -27,19 +28,7 @@
     <br>
 </div>
 </details>
-
----
-## WEB Project
-|프로젝트 이름|링크|설명|
-|---|---|---|
-|예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|개발 지식 없이 간단히 웹 사이트를 만들 수 있는 서비스|
-
----
-## CS Project
-|프로젝트 이름|링크|설명|
-|---|---|---|
-|Mginx|[(repo)](https://github.com/42Mginx/mginx)|CPP로 만드는 웹 서버 프로그램|
-|SHELL we dance|[(repo)](https://github.com/humonnom/42-shellWeDance)|C로 만드는 쉘 프로그램|
+-->
 
 ---
 ## Study
@@ -53,3 +42,16 @@
 * mginx, minishell, webserve Readme 정리 후에 넣기
 -->
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhumonnom)](https://hits.seeyoufarm.com) 
+
+---
+## WEB Project
+|프로젝트 이름|링크|설명|
+|---|---|---|
+|예술가를 위한 웹빌더, 온잇|[(개인 repo)](https://github.com/humonnom/ONIT-frontend-forked)|개발 지식 없이 간단히 웹 사이트를 만들 수 있는 서비스|
+
+---
+## CS Project
+|프로젝트 이름|링크|설명|
+|---|---|---|
+|Mginx|[(repo)](https://github.com/42Mginx/mginx)|CPP로 만드는 웹 서버 프로그램|
+|SHELL we dance|[(repo)](https://github.com/humonnom/42-shellWeDance)|C로 만드는 쉘 프로그램|
