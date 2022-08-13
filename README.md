@@ -37,7 +37,7 @@
 |📖 JS 스터디(책)|[(repo)](https://github.com/hyunahOh/javascript-deep-dive)|Javascript에 대한 이해|종료|
 |🔫 React 스터디(프로젝트)|[(repo)](https://github.com/humonnom/ruth-form)|리액트 작동방식에 대한 이해|진행중|
 |📖 React 스터디(책)|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트 라이브러리에 대한 이해|종료|
-|📖 TS 스터디(문서, 책)|[(repo)](https://github.com/Choozii/fe-study)|Typescript에 대한 이해|진행중|
+|📖 TS 스터디(문서, 책)|[(repo)](https://github.com/holdanddeepdive/typescript-study)|Typescript에 대한 이해|진행중|
 
 
 <!--
