@@ -1,8 +1,11 @@
-  <div align=center>
+<div align=center>
       <h1>Jueun park</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=humonnom" />
+  <p> Frontend Dev </p>
 </div>
 <br>
+
+
+<!--
 <div align=center>  
      <img src="https://img.shields.io/badge/-JS-%23535D6C?logo=javascript" />
      <img src="https://img.shields.io/badge/-REACT-%23181717?logo=react" />
@@ -16,7 +19,6 @@
 * `#코드리뷰` `#Divide-and-conquer` `#틈틈이-튼튼히`
 * 프로젝트 및 스터디의 자세한 사항은 각 레포의 `README.md`에 정리해나가는 중
 
-<!--
 * 개인프로젝트에 적용하고 있는 커밋 컨벤션[(Issues)](https://github.com/humonnom/ruth-form/issues/1#issue-1251518315)
 <details>
 <summary>동료들도 인정한 ⁉️(자세히보기)</summary>
@@ -28,7 +30,7 @@
     <br>
 </div>
 </details>
--->
+
 
 ---
 ## Study
@@ -39,10 +41,10 @@
 |📖 React 스터디(책)|[(repo)](https://github.com/Learning-React-42study/Learning-React)|리액트 라이브러리에 대한 이해|종료|
 |📖 TS 스터디(문서, 책)|[(repo)](https://github.com/holdanddeepdive/typescript-study)|Typescript에 대한 이해|진행중|
 
-
+-->
 <!--
 * mginx, minishell, webserve Readme 정리 후에 넣기
--->
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhumonnom)](https://hits.seeyoufarm.com) 
 
 ---
@@ -51,3 +53,4 @@
 |---|---|---|
 |Mginx|[(repo)](https://github.com/42Mginx/mginx)|CPP로 만드는 웹 서버 프로그램|
 |SHELL we dance|[(repo)](https://github.com/humonnom/42-shellWeDance)|C로 만드는 쉘 프로그램|
+-->
