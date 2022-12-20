@@ -1,7 +1,7 @@
 <div align=center>
       <h1>Jueun park</h1>
   <p> Frontend Dev </p>
-      https://www.juepark.com/movie-mate
+      https://www.juepark.com
 </div>
 <br>
 
