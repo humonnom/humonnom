@@ -1,12 +1,11 @@
 <div align=center>
       <h1>Jueun park</h1>
-  <p> Frontend Dev </p>
-      https://www.juepark.com
+      <p> Frontend Dev </p>
 </div>
 <br>
-
-
 <!--
+ https://www.juepark.com
+
 <div align=center>  
      <img src="https://img.shields.io/badge/-JS-%23535D6C?logo=javascript" />
      <img src="https://img.shields.io/badge/-REACT-%23181717?logo=react" />
