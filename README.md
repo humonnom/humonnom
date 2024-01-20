@@ -1,11 +1,8 @@
 <div align=center>
       <h1>Jueun park</h1>
-      <p> Frontend Dev </p>
+      <p> #Frontend #42Seoul </p>
 </div>
 <br>
-<!--
- https://www.juepark.com
-
 <div align=center>  
      <img src="https://img.shields.io/badge/-JS-%23535D6C?logo=javascript" />
      <img src="https://img.shields.io/badge/-REACT-%23181717?logo=react" />
@@ -14,6 +11,7 @@
     <img src="https://img.shields.io/badge/-Shell-%23E8E8E8?logo=gnubash" />
  </div>
  
+<!--
 
 ## Intro
 * `#코드리뷰` `#Divide-and-conquer` `#틈틈이-튼튼히`
