@@ -1,9 +1,30 @@
-<div align=center>
-      <h1>Jueun park</h1>
-      <p> #Frontend #42Seoul </p>
+
+<div>
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/b4ef28ca-3bd8-4bb0-acee-2dba171e5e63" alt="42Logo">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/95958e8f-4b88-4a41-a949-da40697c94c5" alt="Javascript">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/a8877c74-95ea-4e40-b087-0eb2c807bfa4" alt="Typescript">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/5df233dc-3285-472b-845b-14e8599f33d4" alt="React">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/9f72ec2b-704c-46c4-b535-0a957e387235" alt="Next.js">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/0292e649-b560-4ab6-82f8-cfebca6a0cb0" alt="C">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/5c35695d-86f9-4d89-bcfb-94c7408e57cb" alt="Linux">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/e049cf97-aeb8-41c3-a018-c61f81c91d55" alt="Webstorm">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/f7d1fb8f-b8b7-4c26-b90d-57135d40a9d0" alt="Copilot">
+<img width='35px' src="https://github.com/humonnom/humonnom/assets/54441505/416979e7-2ecc-4874-bd95-100835209032" alt="Discord">
 </div>
-<br>
-<div align=center>  
+</br>
+
+![](https://img.shields.io/badge/박주은-pink) / ![](https://img.shields.io/badge/SEOUL-green)
+
+* 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-grey) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-grey)를 사용하며 ![rn](https://img.shields.io/badge/RN-grey)도 가끔 활용합니다.
+* 프로그래밍 교육에 관심이 많아 ![](https://img.shields.io/badge/인프런-grey) 과 기타 플랫폼에서 신입 개발자를 대상으로 멘토링 하고 있습니다.
+* 2024년 목표는 외국어(![jp](https://img.shields.io/badge/일본어-grey)와 ![en](https://img.shields.io/badge/영어-grey)) 회화를 열심히 하는 것입니다.
+   * ![jp](https://img.shields.io/badge/일본어-grey) ![jp](https://img.shields.io/badge/JLPT_N2-yellow) ![DONE](https://img.shields.io/badge/취득완료!-blue)
+   * ![en](https://img.shields.io/badge/영어-grey) ![en](https://img.shields.io/badge/영어회화-yellow)
+* ![mdn](https://img.shields.io/badge/MDN-grey) 오픈소스 기여도 틈틈이 해보려고 합니다.
+   * ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/리뷰중-blue)
+
+<!--
+<div>  
      <img src="https://img.shields.io/badge/-JS-%23535D6C?logo=javascript" />
      <img src="https://img.shields.io/badge/-REACT-%23181717?logo=react" />
     <img src="https://img.shields.io/badge/-C-%23FF9900?logo=c" />
@@ -11,8 +32,6 @@
     <img src="https://img.shields.io/badge/-Shell-%23E8E8E8?logo=gnubash" />
  </div>
  
-<!--
-
 ## Intro
 * `#코드리뷰` `#Divide-and-conquer` `#틈틈이-튼튼히`
 * 프로젝트 및 스터디의 자세한 사항은 각 레포의 `README.md`에 정리해나가는 중
