@@ -15,13 +15,14 @@
 
 ![](https://img.shields.io/badge/박주은-pink) / ![](https://img.shields.io/badge/SEOUL-green)
 
-* 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-grey) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-grey)를 사용하며 ![rn](https://img.shields.io/badge/RN-grey)도 가끔 활용합니다.
+* 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-skyblue) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-white)를 사용하며 ![rn](https://img.shields.io/badge/RN-white)도 가끔 활용합니다.
 * 프로그래밍 교육에 관심이 많아 ![](https://img.shields.io/badge/인프런-grey) 과 기타 플랫폼에서 신입 개발자를 대상으로 멘토링 하고 있습니다.
-* 2024년 목표는 외국어(![jp](https://img.shields.io/badge/일본어-grey)와 ![en](https://img.shields.io/badge/영어-grey)) 회화를 열심히 하는 것입니다.
-   * ![jp](https://img.shields.io/badge/일본어-grey) ![jp](https://img.shields.io/badge/JLPT_N2-yellow) ![DONE](https://img.shields.io/badge/취득완료!-blue)
-   * ![en](https://img.shields.io/badge/영어-grey) ![en](https://img.shields.io/badge/영어회화-yellow)
-* ![mdn](https://img.shields.io/badge/MDN-grey) 오픈소스 기여도 틈틈이 해보려고 합니다.
-   * ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/리뷰중-blue)
+* 2024년 목표는
+   * 외국어(![jp](https://img.shields.io/badge/일본어-grey)와 ![en](https://img.shields.io/badge/영어-grey)) 회화를 열심히 하는 것입니다.
+      * ![jp](https://img.shields.io/badge/일본어-grey) ![jp](https://img.shields.io/badge/JLPT_N2-yellow) ![DONE](https://img.shields.io/badge/취득완료!-blue)
+      * ![en](https://img.shields.io/badge/영어-grey) ![en](https://img.shields.io/badge/영어회화-yellow)
+   * 오픈소스 기여도 틈틈이 해보려고 합니다.
+      * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/리뷰중-blue)
 
 <!--
 <div>  
