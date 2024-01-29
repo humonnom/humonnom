@@ -15,6 +15,7 @@
 
 ![](https://img.shields.io/badge/박주은-pink) / ![](https://img.shields.io/badge/SEOUL-green)
 
+* 2020년 테트리스를 만들면서 프로그래밍을 시작했습니다. 이후 2년간 C언어와 C++을 주로 활용했습니다.
 * 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-skyblue) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-white)를 사용하며 ![rn](https://img.shields.io/badge/RN-white)도 가끔 활용합니다.
 * 프로그래밍 교육에 관심이 많아 ![](https://img.shields.io/badge/인프런-grey) 과 기타 플랫폼에서 신입 개발자를 대상으로 멘토링 하고 있습니다.
 * 2024년 목표는
