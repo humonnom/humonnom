@@ -17,7 +17,7 @@
 
 * 처음 배운 언어는 C언어로, 이후 2년간 C언어를 주로 사용했습니다.
 * 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-skyblue) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-white)를 사용하며 ![rn](https://img.shields.io/badge/RN-white)도 가끔 활용합니다.
-* 프로그래밍 교육에 관심이 많아 ![](https://img.shields.io/badge/인프런-grey) 에서 멘토로 활동하고 있습니다.
+* 프로그래밍 교육에 관심이 있어서 ![](https://img.shields.io/badge/인프런-grey) 등 에서 멘토로 활동하고 있습니다.
 * 2024년 목표는
    * 외국어(![jp](https://img.shields.io/badge/일본어-grey)와 ![en](https://img.shields.io/badge/영어-grey)) 회화를 열심히 하는 것입니다.
       * ![jp](https://img.shields.io/badge/일본어-grey) ![jp](https://img.shields.io/badge/JLPT_N2-yellow) ![DONE](https://img.shields.io/badge/취득완료!-blue)
