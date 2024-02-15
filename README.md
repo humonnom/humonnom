@@ -23,7 +23,8 @@
       * ![jp](https://img.shields.io/badge/일본어-grey) ![jp](https://img.shields.io/badge/JLPT_N2-yellow) ![DONE](https://img.shields.io/badge/취득완료!-blue)
       * ![en](https://img.shields.io/badge/영어-grey) ![en](https://img.shields.io/badge/영어회화-yellow)
    * 오픈소스 기여도 틈틈이 해보려고 합니다.
-      * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
+      * MDN web docs 한국 커뮤니티 활동
+         * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
 
 <!--
 100문 100답
