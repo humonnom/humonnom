@@ -13,7 +13,7 @@
 </div>
 </br>
 
-![](https://img.shields.io/badge/박주은-pink) / ![](https://img.shields.io/badge/SEOUL-green)
+![](https://img.shields.io/badge/JueunPark-pink) / ![](https://img.shields.io/badge/SEOUL-green)
 
 * 처음 배운 언어는 C언어로, 이후 2년간 C언어를 주로 사용했습니다.
 * 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-skyblue) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-white)를 사용합니다.
