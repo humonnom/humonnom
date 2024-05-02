@@ -14,6 +14,7 @@
 </br>
 
 ![](https://img.shields.io/badge/JueunPark-pink) / ![](https://img.shields.io/badge/SEOUL-green)
+* 출근길 개발 서적 읽기 모임 운영중
 
 * 처음 배운 언어는 C언어로, 이후 2년간 C언어를 주로 사용했습니다.
 * 2022년 7월부터 ![frontend](https://img.shields.io/badge/Frontend-skyblue) 개발자로 일하고 있습니다. 주로 ![react](https://img.shields.io/badge/React-white)를 사용합니다.
@@ -22,7 +23,7 @@
    * 외국어(![jp](https://img.shields.io/badge/일본어-grey)와 ![en](https://img.shields.io/badge/영어-grey)) 회화를 열심히 하는 것입니다.
       * ![jp](https://img.shields.io/badge/일본어-grey) ![jp](https://img.shields.io/badge/JLPT_N2-yellow) ![DONE](https://img.shields.io/badge/취득완료!-blue)
       * ![en](https://img.shields.io/badge/영어-grey) ![en](https://img.shields.io/badge/영어회화어플-yellow) ![START](https://img.shields.io/badge/시작했음-skyblue)
-   * 오픈소스 기여도 틈틈이 해보려고 합니다.(올해 목표: 10개)
+   * 오픈소스 기여도 틈틈이 해보려고 합니다.
       * MDN web docs 한국 커뮤니티 활동
          * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
 
