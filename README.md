@@ -9,7 +9,7 @@
 ![포로리](https://github.com/user-attachments/assets/6e2da0ca-7301-4311-a731-e262d98b464e)
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
-* MDN web docs 한국 커뮤니티 활동
+* MDN web docs [한국 커뮤니티 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
    * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
 
 <!--
