@@ -11,7 +11,7 @@
 
 * MDN web docs [한국 커뮤니티 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
    * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
-   * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/리뷰완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-duration)
+   * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/리뷰완료-green)
 
 <!--
 <a>
