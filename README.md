@@ -10,9 +10,6 @@
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
 * MDN web docs [한국어 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ko)
-   * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
-   * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-duration)
-
 * MDN web docs [日本語翻訳活動](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ja+)
 
 ---
@@ -32,4 +29,9 @@
       * ![en](https://img.shields.io/badge/영어-grey) ![en](https://img.shields.io/badge/영어회화어플-yellow) ![START](https://img.shields.io/badge/시작했음-skyblue)
    * 오픈소스 기여도 틈틈이 해보려고 합니다.
 
+   * ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue)
+   * ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue)
+   * ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue)
+   * ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue)
+   
 -->
