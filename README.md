@@ -14,6 +14,9 @@
    * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-duration)
 
 * MDN web docs [日本語翻訳活動](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ja+)
+
+---
+
 * Favorite book: [99bottles by sandimetz](https://sandimetz.com/99bottles)
 
 <!--
