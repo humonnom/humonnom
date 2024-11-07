@@ -13,6 +13,8 @@
    * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue) [링크](https://developer.mozilla.org/ko/docs/Web/CSS/transition-property)
    * ![mdn](https://img.shields.io/badge/MDN-grey) ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/리뷰완료-green)
 
+* Favorite book: [99bottles by sandimetz](https://sandimetz.com/99bottles)
+
 <!--
 <a>
 <img height=50 align="center" src="https://github.com/user-attachments/assets/98c4d23b-bf75-4f7c-9542-47ce56d05611" />
