@@ -9,10 +9,7 @@
 ![포로리](https://github.com/user-attachments/assets/6e2da0ca-7301-4311-a731-e262d98b464e)
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
-* MDN web docs [한국어 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ko)
-* MDN web docs [日本語翻訳活動](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ja+)
-
----
+* MDN web docs [한국어 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ko)/[日本語翻訳活動](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom+label:l10n-ja+)
 
 * Favorite book: [99bottles by sandimetz](https://sandimetz.com/99bottles)
 
