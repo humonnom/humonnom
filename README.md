@@ -9,6 +9,16 @@
 ![포로리](https://github.com/user-attachments/assets/6e2da0ca-7301-4311-a731-e262d98b464e)
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
+はじめまして、フロントエンドエンジニアJueunParkです。✋
+
+エンジニアとして2年ほどの経験があり、プログラミング主任講師としても半年ほど働いていました。
+
+最も使用頻度の高い言語はTypescriptとC言語です。仕事ではTypescriptを主に使用していましたが、42Seoulではほとんどの場合C言語で学習していました。
+
+私が大切にしているのは好奇心です。
+
+* My [Gist](https://gist.github.com/humonnom)
+
 * MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
 
 * Favorite book: [99bottles by sandimetz](https://sandimetz.com/99bottles)
