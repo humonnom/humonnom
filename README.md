@@ -32,3 +32,11 @@
    * ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue)
    
 -->
+
+* 42Seoul Repositories 🎵
+   * [42Piscine](https://github.com/humonnom/42-piscine)
+   * [アセンブリ言語でコーディングしよう](https://github.com/humonnom/42-llibasm)
+   * [自分だけのシェルを作ろう](https://github.com/humonnom/42-shellWeDance)
+   * [食事する哲学者の問題](https://github.com/humonnom/42-philosophers)
+   * [ウェブサーバープログラムを作ろう](https://github.com/humonnom/42-webserv-ref)
+   * [自分だけのC++モジュールを作ろう](https://github.com/humonnom/42-cpp-modules)
