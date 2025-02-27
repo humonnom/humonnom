@@ -20,15 +20,15 @@
 
 私が大切にしているのは好奇心です。
 
-* StackShare
-   * [Artue](https://stackshare.io/humonnom/artue)
+* これまで経験したチームの技術スタック => StackShare
+   * [Artue](https://stackshare.io/humonnom/artue)(作成中)
    * [Luaeb](https://stackshare.io/humonnom/luaeb)  
 
-* My [Gist](https://gist.github.com/humonnom)
+* 私のコードを見たい場合は => My [Gist](https://gist.github.com/humonnom)
 
-* MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
+* オープンソースへの貢献 => MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
 
-* Favorite book: [99bottles by sandimetz](https://sandimetz.com/99bottles)
+* Favorite technical book => [99bottles by sandimetz](https://sandimetz.com/99bottles)
 
 <!--
 <a>
