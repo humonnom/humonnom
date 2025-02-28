@@ -12,7 +12,8 @@
 ![포로리](https://github.com/user-attachments/assets/6e2da0ca-7301-4311-a731-e262d98b464e)
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
-はじめまして、フロントエンドエンジニアJueunParkです。✋
+### はじめまして
+フロントエンドエンジニアJueunParkです。✋
 
 エンジニアとして2年ほどの経験があり、プログラミング主任講師としても半年ほど働いていました。
 
@@ -20,16 +21,18 @@
 
 私が大切にしているのは好奇心です。
 
-* これまで経験したチームの技術スタック => StackShare
+---
+### ☐ LInks
+* これまで経験したチームの技術スタック ▶︎ StackShare
    * [Artue](https://stackshare.io/humonnom/artue)(作成中)
    * [Luaeb](https://stackshare.io/humonnom/luaeb)  
+* 私のコードを見たい場合は ▶︎ My [Gist](https://gist.github.com/humonnom)
+* 最近何してる？ ▶︎ [nownownow.com](https://nownownow.com/p/Tv8T)
+* オープンソースへの貢献 ▶︎ MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
 
-* 私のコードを見たい場合は => My [Gist](https://gist.github.com/humonnom)
-
-* オープンソースへの貢献 => MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
-
-* Favorite technical book => [99bottles by sandimetz](https://sandimetz.com/99bottles)
-
+* Favorite technical book
+   * [99bottles by sandimetz](https://sandimetz.com/99bottles)
+---
 <!--
 <a>
 <img height=50 align="center" src="https://github.com/user-attachments/assets/98c4d23b-bf75-4f7c-9542-47ce56d05611" />
@@ -50,7 +53,7 @@
    
 -->
 
-* 42Seoul Repositories 🎵
+### ☐ 42Seoul Repositories 🎵
    * [42Piscine](https://github.com/humonnom/42-piscine)
    * [アセンブリ言語でコーディングしよう](https://github.com/humonnom/42-llibasm)
    * [自分だけのシェルを作ろう](https://github.com/humonnom/42-shellWeDance)
