@@ -63,8 +63,8 @@
 -->
 
 ### ☐ 42Seoul Repositories 🎵
-   * [アセンブリ言語でコーディングしよう](https://github.com/humonnom/42-llibasm)
-   * [自分だけのシェルを作ろう](https://github.com/humonnom/42-shellWeDance)
-   * [食事する哲学者の問題](https://github.com/humonnom/42-philosophers)
-   * [ウェブサーバープログラムを作ろう](https://github.com/humonnom/42-webserv-ref)
-   * [自分だけのC++モジュールを作ろう](https://github.com/humonnom/42-cpp-modules)
+   * [어셈블리 언어로 코딩해 보자 | アセンブリ言語でコーディングしよう](https://github.com/humonnom/42-llibasm)
+   * [나만의 쉘을 만들어 보자 | 自分だけのシェルを作ろう](https://github.com/humonnom/42-shellWeDance)
+   * [식사하는 철학자의 문제 | 食事する哲学者の問題](https://github.com/humonnom/42-philosophers)
+   * [웹서버 프로그램을 만들어 보자 | ウェブサーバープログラムを作ろう](https://github.com/humonnom/42-webserv-ref)
+   * [나만의 C++ 모듈을 만들어 보자 | 自分だけのC++モジュールを作ろう](https://github.com/humonnom/42-cpp-modules)
