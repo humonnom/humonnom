@@ -12,6 +12,15 @@
 ![포로리](https://github.com/user-attachments/assets/6e2da0ca-7301-4311-a731-e262d98b464e)
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
+### 안녕하세요.
+프론트엔드 엔지니어 박주은입니다. ✋
+
+엔지니어로 2년 정도 경력이 있고, 프로그래밍 주강사로도 6개월 정도 일했습니다.
+
+가장 많이 사용한 언어는 Typescript와 C언어입니다. 회사에서는 주로 Typescript를 사용했지만, 42Seoul에서는 대부분 C언어로 학습했습니다.
+
+제가 중요하게 생각하는 것은 호기심입니다.
+
 ### はじめまして
 フロントエンドエンジニアJueunParkです。✋
 
@@ -23,17 +32,17 @@
 
 ---
 ### ☐ LInks
-* これまで経験したチームの技術スタック ▶︎ StackShare
+* 지금까지 경험한 팀의 기술 스택 | これまで経験したチームの技術スタック ▶︎ StackShare
    * [Artue](https://stackshare.io/humonnom/artue)(作成中)
    * [Luaeb](https://stackshare.io/humonnom/luaeb)  
-* 私のコードを見たい場合は ▶︎ My [Gist](https://gist.github.com/humonnom)
-* 最近何してる？ ▶︎ [nownownow.com](https://nownownow.com/p/Tv8T)
-* オープンソースへの貢献 ▶︎ MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
+* 저의 코드를 조금 보고 싶으시다면 | 私のコードを見たい場合は ▶︎ My [Gist](https://gist.github.com/humonnom)
+* 오픈 소스 기여 | オープンソースへの貢献 ▶︎ MDN web docs [한국어/日本語 번역 활동](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
 
 * Favorite technical book
    * [99bottles by sandimetz](https://sandimetz.com/99bottles)
 ---
 <!--
+* 最近何してる？ ▶︎ [nownownow.com](https://nownownow.com/p/Tv8T)
 <a>
 <img height=50 align="center" src="https://github.com/user-attachments/assets/98c4d23b-bf75-4f7c-9542-47ce56d05611" />
 </a>
@@ -50,11 +59,10 @@
    * ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue)
    * ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue)
    * ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue)
-   
+   * [42Piscine](https://github.com/humonnom/42-piscine)
 -->
 
 ### ☐ 42Seoul Repositories 🎵
-   * [42Piscine](https://github.com/humonnom/42-piscine)
    * [アセンブリ言語でコーディングしよう](https://github.com/humonnom/42-llibasm)
    * [自分だけのシェルを作ろう](https://github.com/humonnom/42-shellWeDance)
    * [食事する哲学者の問題](https://github.com/humonnom/42-philosophers)
