@@ -1,25 +1,20 @@
-<a href="https://github.com/humonnom">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=humonnom&theme=tokyonight" />
-</a>
-<a href="https://github.com/humonnom">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humonnom&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=tokyonight" />
-</a>
-<br>
-<br>
-<br>
+
 
 ![보노보노](https://github.com/user-attachments/assets/98c4d23b-bf75-4f7c-9542-47ce56d05611)
 ![포로리](https://github.com/user-attachments/assets/6e2da0ca-7301-4311-a731-e262d98b464e)
 ![냐옹이형](https://github.com/user-attachments/assets/20b2f821-241e-4a9c-a07b-8dcb078d5cc8)
 
-### はじめまして
-フロントエンドエンジニアJueunParkです。✋
+✋
 
-最も使用頻度の高い言語はTypescriptとC言語です。仕事ではTypescriptを主に使用していましたが、42Seoulではほとんどの場合C言語で学習していました。
 
-私が大切にしているのは好奇心です。
 
----
+<!--
+
+
+* Favorite technical book
+   * [99bottles by sandimetz](https://sandimetz.com/99bottles)
+
+
 ### ☐ LInks
 * これまで経験したチームの技術スタック ▶︎ StackShare
    * [Artue](https://stackshare.io/humonnom/artue)(作成中)
@@ -27,10 +22,11 @@
 * 私のコードを見たい場合は ▶︎ My [Gist](https://gist.github.com/humonnom)
 * オープンソースへの貢献 ▶︎ MDN web docs [한국어/日本語](https://github.com/mdn/translated-content/pulls?q=is:pr+author:humonnom)
 
-* Favorite technical book
-   * [99bottles by sandimetz](https://sandimetz.com/99bottles)
----
-<!--
+
+最も使用頻度の高い言語はTypescriptとC言語です。仕事ではTypescriptを主に使用していましたが、42Seoulではほとんどの場合C言語で学習していました。
+
+私が大切にしているのは好奇心です。
+
 エンジニアとして2年ほどの経験があり、プログラミング主任講師としても半年ほど働いていました。
 * 最近何してる？ ▶︎ [nownownow.com](https://nownownow.com/p/Tv8T)
 <a>
@@ -50,7 +46,7 @@
    * ![](https://img.shields.io/badge/transition_property-yellow) ![](https://img.shields.io/badge/반영완료-blue)
    * ![](https://img.shields.io/badge/transition_duration-yellow) ![](https://img.shields.io/badge/반영완료-blue)
    * [42Piscine](https://github.com/humonnom/42-piscine)
--->
+
 
 ### ☐ 42Seoul Repositories 🎵
    * [어셈블리 언어로 코딩해 보자 | アセンブリ言語でコーディングしよう](https://github.com/humonnom/42-llibasm)
@@ -58,3 +54,16 @@
    * [식사하는 철학자의 문제 | 食事する哲学者の問題](https://github.com/humonnom/42-philosophers)
    * [웹서버 프로그램을 만들어 보자 | ウェブサーバープログラムを作ろう](https://github.com/humonnom/42-webserv-ref)
    * [나만의 C++ 모듈을 만들어 보자 | 自分だけのC++モジュールを作ろう](https://github.com/humonnom/42-cpp-modules)
+
+---
+<a href="https://github.com/humonnom">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=humonnom&theme=tokyonight" />
+</a>
+<a href="https://github.com/humonnom">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humonnom&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=tokyonight" />
+</a>
+<br>
+<br>
+<br>
+
+-->
