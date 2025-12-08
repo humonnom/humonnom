@@ -6,6 +6,7 @@
 
 ✋
 
+https://humonnom.vercel.app/resume
 
 
 <!--
