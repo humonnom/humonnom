@@ -8,10 +8,12 @@
 
 https://humonnom.vercel.app
 
+### 일본/일본어 관련 레포
+* [한국/일본 데이팅 어플](https://github.com/humonnom/lovecation-web) | 사이드 프로젝트
+* [영어 README.md를 일본어로 번역해주는 워크플로우](https://github.com/humonnom/readme-in-japanese) | 사이드 프로젝트
+* [일본어/한국어 프로그래밍 용어 정리](https://github.com/humonnom/Japanese-tech-terms) | 정리 노트
 
 <!--
-
-
 * Favorite technical book
    * [99bottles by sandimetz](https://sandimetz.com/99bottles)
 
